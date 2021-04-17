@@ -29,3 +29,4 @@ https://developer.mozilla.org/en-US/docs/WebAssembly/Rust_to_wasm
 
 ## Other links
 https://github.com/rustwasm/wasm-bindgen
+https://crates.io/
