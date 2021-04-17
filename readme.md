@@ -1,5 +1,11 @@
 # CRS Rust WASM Starter
 
+## Building the project
+
+```
+wasm-pack build rust/ --target web --out-dir ../bin
+```
+
 ## Getting started.
 https://rustwasm.github.io/wasm-bindgen/introduction.html
 https://rustwasm.github.io/docs/wasm-pack/
