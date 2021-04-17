@@ -10,6 +10,8 @@ If you don't have wasm-pack installed you can do so using
 cargo install wasm-pack
 ```
 
+Remember to update the Cargo.toml file in the rust folder with your project details.
+
 ## Building the project
 ```
 wasm-pack build rust/ --target web --out-dir ../bin
