@@ -19,6 +19,9 @@ wasm-pack build rust/ --target web --out-dir ../bin
 
 The package.json file contains a script that will build it for you, should you prefer that.
 
+Performing a build using the above command will create a directory called bin in the root of the project.  
+This directory contains all the required wasm and js files to use in index.html.
+
 ## Getting started links
 https://rustwasm.github.io/wasm-bindgen/introduction.html  
 https://rustwasm.github.io/docs/wasm-pack/  
