@@ -20,9 +20,9 @@ wasm-pack build rust/ --target web --out-dir ../bin
 The package.json file contains a script that will build it for you, should you prefer that.
 
 ## Getting started links
-https://rustwasm.github.io/wasm-bindgen/introduction.html
-https://rustwasm.github.io/docs/wasm-pack/
-https://developer.mozilla.org/en-US/docs/WebAssembly/Rust_to_wasm
+https://rustwasm.github.io/wasm-bindgen/introduction.html  
+https://rustwasm.github.io/docs/wasm-pack/  
+https://developer.mozilla.org/en-US/docs/WebAssembly/Rust_to_wasm  
 
 ## Other links
 https://github.com/rustwasm/wasm-bindgen
