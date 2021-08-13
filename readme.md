@@ -14,7 +14,7 @@ Remember to update the Cargo.toml file in the rust folder with your project deta
 
 ## Building the project
 ```
-wasm-pack build rust/ --target web --out-dir ../bin
+wasm-pack build --target web --out-dir ../bin
 ```
 
 The package.json file contains a script that will build it for you, should you prefer that.
