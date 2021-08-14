@@ -34,4 +34,5 @@ https://rustwasm.github.io/wasm-bindgen/api/web_sys/
 https://doc.rust-lang.org/book/title-page.html  
 
 
-
+## Examples
+https://github.com/rustwasm/wasm-bindgen/tree/master/examples
