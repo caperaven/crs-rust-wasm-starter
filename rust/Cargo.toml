@@ -13,3 +13,6 @@ crate-type = ["cdylib"]
 wasm-bindgen = "0.2.73"
 web-sys = "0.3.52"
 js-sys = "0.3.52"
+
+[profile.release]
+lto = true
